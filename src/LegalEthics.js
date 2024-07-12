@@ -21,7 +21,7 @@ const questions = [
   },
   {
     "questionId": 6,
-    "text": " After passing the Philippine Bar in 1986, Atty. Richards practiced law until 1996 when he migrated to Australia where he subsequently became an Australian citizen in 2000. As he kept abreast of legal developments, petitioner learned about the Citizenship Retention and Re-Acquisition Act of\n2003 (Republic Act No. 9225), pursuant to which he reacquired his Philippine citizenship in 2006.\nHe took his oath of allegiance as a Filipino citizen at the Philippine embassy in Canberra, Australia. Jaded by the laid back life in the outback, he returned to the Philippines in December\n"
+    "text": " After passing the Philippine Bar in 1986, Atty. Richards practiced law until 1996 when he migrated to Australia where he subsequently became an Australian citizen in 2000. As he kept abreast of legal developments, petitioner learned about the Citizenship Retention and Re-Acquisition Act of\n2003 (Republic Act No. 9225), pursuant to which he reacquired his Philippine citizenship in 2006.\nHe took his oath of allegiance as a Filipino citizen at the Philippine embassy in Canberra, Australia. Jaded by the laid back life in the outback, he returned to the Philippines in December. After the holidays, he established his own law office and resumed his practice of law. Months later, a concerned woman who had secured copies of Atty. Richards’ naturalization papers with consular authentication, filed with the Supreme Court an anonymous complaint against him for illegal practice of law. (2010 Bar Question) Is respondent entitled to resume the practice of law? Explain.\n"
   },
   {
     "questionId": 7,
