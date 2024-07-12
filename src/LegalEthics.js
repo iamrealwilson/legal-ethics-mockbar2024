@@ -25,7 +25,7 @@ const questions = [
   },
   {
     "questionId": 7,
-    "text": "After the holidays, he established his own law office and resumed his practice of law.\n\nMonths later, a concerned woman who had secured copies of Atty. Richards’ naturalization papers with consular authentication, filed with the Supreme Court an anonymous complaint against him for illegal practice of law. (2010 Bar Question)\n\nIs respondent entitled to resume the practice of law? Explain. (5%)"
+    "text": "What constitutes practice of law? Explain. (5%)"
   },
   {
     "questionId": 8,
